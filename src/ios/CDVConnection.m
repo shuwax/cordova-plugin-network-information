@@ -134,7 +134,7 @@
 
 - (void)onPause
 {
-    [self.internetReach stopNotifier];
+    //[self.internetReach stopNotifier];
 }
 
 - (void)onResume
